@@ -1,8 +1,3 @@
 # Contributing Guidelines
 
-- Fork the repository
-- Create a new branch
-- Make changes
-- Submit a pull request
-
-Ensure clean and readable code.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
